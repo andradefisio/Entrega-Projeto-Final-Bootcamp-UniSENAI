@@ -9,4 +9,5 @@ Repositório com o jupyter notebook com os códigos e dataset usado para treinar
 - **Na isnpeção pelo google sheets pude observar algumas inconsistências na feature _umidade_ar_. Portanto, use este meu arquivo "bootcamp_train.csv" que está disponibilizado aqui no meu Git.**
 
 Grato. 
+
 Atte. 
