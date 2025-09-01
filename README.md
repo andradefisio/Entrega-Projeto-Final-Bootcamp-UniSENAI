@@ -1,6 +1,7 @@
 # Entrega-Projeto-Final-Bootcamp-UniSENAI
 Repositório com o jupyter notebook com os códigos e dataset usado para treinar e testar os modelos. 
 
+[! IMPORTANTE] :warning: :warning:
 ### Observações:
 
 - Como usei o widget de visualização de dados "ydata_profiling", o notebook não salva e renderiza no Github. Peço por gentileza que o professor faça o download no jupyter notebook e, então, faça upload do mesmo no Google Colab. 
